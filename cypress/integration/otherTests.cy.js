@@ -1,3 +1,4 @@
+/// <reference types="cypress" />
 
 import commitQualityPage from '../pages/other/commitQualityPage'
 import commitQualityAddProductPage from '../pages/other/commitQualityAddProductPage'
